@@ -31,7 +31,7 @@ p {
   display: inline-flex;
 }
 .upper-text {
-  padding: 4%;
+  padding: 10%;
   position: relative;
   margin-top: 10%;
 }
@@ -55,6 +55,7 @@ p {
   width: 512px;
   padding: 24px;
   margin-top: 15%;
+  margin-left: 10%;
 }
 .profile_img {
   float: top;
@@ -74,6 +75,8 @@ p {
   text-align: center;
   font-family: "Josefin Sans", sans-serif;
   font-size: 32px;
+  background-color: whitesmoke;
+
 }
 .profile_desc:hover {
   box-shadow: 0 8px 0 16px rgba(0, 0, 0, 0.2);
@@ -123,4 +126,12 @@ ul {
   margin: 20px;
   position: relative;
   left: 18%;
+}
+.nav-item{
+  margin-top: 10%;
+  margin-left:5%;
+}
+.nav-link{
+width: max-content;
+font: size 32px;
 }
