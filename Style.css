@@ -48,10 +48,10 @@ p {
 .main_img {
   padding:6%;
   display:inline-block;
-  margin-left:5%;
+  margin-left:2%;
 }
 #codeimg{
-  width: 100%;
+  width: 80%;
   height: auto;
 }
 .profile_img {
