@@ -49,9 +49,10 @@ p {
   padding:2%;
   display:inline-block;
   margin-left:2%;
+ position:absolute;
 }
 #codeimg{
-  width: 60%;
+  width: 80%;
   height: auto;
 }
 .profile_img {
