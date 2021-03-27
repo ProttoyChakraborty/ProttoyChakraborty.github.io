@@ -22,6 +22,14 @@ p {
 .navbar {
   height: 55px;
 }
+.nav{
+  position: fixed;
+  overflow:auto;
+  z-index:1;
+  width: 100%;
+  background-color: whitesmoke;
+  padding-bottom: 2%;
+}
 .upper-text {
   padding: 5%;
   position: relative;
@@ -46,13 +54,14 @@ p {
   color: #30475e;
 }
 .main_img {
-  padding:2%;
+  padding:5%;
+  margin-top:2%;
   display:inline-block;
   margin-left:2%;
- position:absolute;
+  position: absolute;
 }
 #codeimg{
-  width: 85%;
+  width: 100%;
   height: auto;
 }
 .profile_img {
