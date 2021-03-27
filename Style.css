@@ -32,7 +32,7 @@ p {
   text-align: center;
   width: max-content;
   font-family: "Sacramento", cursive;
-  font-size: 160px;
+  font-size: 140px;
   font-weight: bold;
   margin-block-end: 55px;
   color: #30475e;
@@ -40,7 +40,7 @@ p {
 .secondary {
   text-align: center;
   font-family: "Josefin Sans", sans-serif;
-  font-size: 80px;
+  font-size: 70px;
   font-weight: 8px;
   margin-block-start: 15px;
   color: #30475e;
